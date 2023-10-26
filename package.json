@@ -1,0 +1,21 @@
+{
+  "name": "lambdaplayground-playwright",
+  "version": "1.0.0",
+  "description": "Practice playwright knowledge on the lambda play ground store",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amratia4/LambdaPlayGround-Playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amratia4/LambdaPlayGround-Playwright/issues"
+  },
+  "homepage": "https://github.com/amratia4/LambdaPlayGround-Playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.35.1"
+  }
+}
